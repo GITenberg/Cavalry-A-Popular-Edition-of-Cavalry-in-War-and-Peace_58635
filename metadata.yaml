@@ -1,0 +1,38 @@
+_repo: Cavalry-A-Popular-Edition-of-Cavalry-in-War-and-Peace_58635
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Bridges, G.T.M.
+    gutenberg_agent_id: '50066'
+    url: http://www.gutenberg.org/2009/agents/50066
+creator:
+  author:
+    agent_name: Bernhardi, Friedrich von
+    alias: Bernhardi, Frederick von
+    birthdate: 1849
+    deathdate: 1930
+    gutenberg_agent_id: '3949'
+    url: http://www.gutenberg.org/2009/agents/3949
+    wikipedia: http://en.wikipedia.org/wiki/Friedrich_von_Bernhardi
+  editor:
+    agent_name: Atteridge, A. Hilliard (Andrew Hilliard)
+    aliases:
+    - Atteridge, Andrew Hilliard
+    - Hale, John Richard
+    gutenberg_agent_id: '42633'
+    url: http://www.gutenberg.org/2009/agents/42633
+description: ''
+gutenberg_issued: '2019-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58635'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Cavalry
+
+  A Popular Edition of "Cavalry in War and Peace"'
+url: http://www.gutenberg.org/ebooks/58635
